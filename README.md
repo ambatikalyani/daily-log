@@ -8,3 +8,7 @@
   - `ls` : list
   - `cd` : change directory
   - `mkdir` : make directory
+ 
+## Aug 9 , 2023
+- React first project started
+- Learnt about eventhandlers
