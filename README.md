@@ -11,4 +11,8 @@
  
 ## Aug 9 , 2023
 - React first project started
-- Learnt about eventhandlers 
+- Learnt about eventhandlers
+## Aug 17 , 2023
+- Analyzed the strutures of the portfolio on internet and worked on my portfolio{how it should be-paperwork}
+- Learnt about some of the hooks of the react
+
